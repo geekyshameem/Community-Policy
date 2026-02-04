@@ -5,7 +5,7 @@
     "displayName": "Azure AI Video Indexer Should Disable Public Network Access",
     "description": "This policy Denies the creation of AI Video Indexer accounts with Public Network Access enabled. Disabling Public Network Access helps to enhance the security of your Video Indexer accounts by restricting access to trusted networks only.",
     "metadata": {
-      "version": "1.1.0",
+      "version": "1.0.0",
       "category": "Video Indexer"
     },
     "mode": "Indexed",
